@@ -23,7 +23,7 @@
 This project involves the comprehensive analysis of sales data for Dune Company from the previous year. My primary objectives were to gain actionable insights, identify areas of opportunity, and inform future business decisions aimed at improving performance and increasing profitability. The analysis encompasses various aspects of the dataset, including profitability trends, customer segmentation, product and cost analysis, and recommendations for data-driven decision-making.
 
 ## Dataset Overview
-Data Source: The dataset used in this analysis is sourced from Dune Company's sales records via [10Alytics](). It includes information on sales, customer demographics, product details, and financial metrics.
+Data Source: The dataset used in this analysis is sourced from Dune Company's sales records via [10Alytics](https://github.com/10Alytics). It includes information on sales, customer demographics, product details, and financial metrics.
 
 ## Key Features
 #### Data Preprocessing
